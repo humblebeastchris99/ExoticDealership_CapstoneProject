@@ -37,9 +37,30 @@ CRUD Operations for vehicle inventory, staff, and customer information.
 7.Create Truck Table for DB
 *INSERT SCREENSHOT OF CREATION OF TABLE!*
 ![autovehicle tables created in db.png](..%2F..%2FOneDrive%2FPictures%2Fautovehicle%20tables%20created%20in%20db.png)
+
+
+Create Customer Information Table for Db
+*screenshot of customer information created*
+
+![created customer info.png](..%2F..%2FOneDrive%2FPictures%2Fcreated%20customer%20info.png)
+
+
+Create Employee Directory Table for Db
+*screenshot of employee directory created*
+
+![employee_directory_created.png](..%2F..%2FOneDrive%2FPictures%2Femployee_directory_created.png)
+
+
+
+
+
+
 8. Populate Coupe Table for DB
 *INSERT SCREENSHOT OF Population OF TABLE!*
 ![display_coupe_models.png](..%2F..%2FOneDrive%2FPictures%2Fdisplay_coupe_models.png)
+
+   
+
 
 9. Populate Suv Table for Db
 *INSERT SCREENSHOT OF Population OF TABLE!*
@@ -54,7 +75,24 @@ CRUD Operations for vehicle inventory, staff, and customer information.
 *INSERT SCREENSHOT OF Population OF TABLE!*
 ![Display_truck_models.png](..%2F..%2FOneDrive%2FPictures%2FDisplay_truck_models.png)
 
+
+
+Populate Employee Directory Table for Db
+*Screenshot of employee directory table*
+![display_employee_directory_table.png](..%2F..%2FOneDrive%2FPictures%2Fdisplay_employee_directory_table.png)
+
     
+Populate Customer Information Table for Db
+*screenshot of customer information table*
+![display_employee_directory_table.png](..%2F..%2FOneDrive%2FPictures%2Fdisplay_employee_directory_table.png)
+
+
+
+
+
+
+
+
 12.update the second vehicle in your coupe table to have 8888 miles
 *insert screenshot/ updated coupe table
 ![update coupe mileage 8888.png](..%2F..%2FOneDrive%2FPictures%2Fupdate%20coupe%20mileage%208888.png)

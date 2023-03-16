@@ -304,11 +304,11 @@ WHERE vin_number = 'WP98388339';"""
 
 #calling statement
 connection = create_server_connection("localhost","root","student","exotic_dealership")
-execute_query(connection,populate_suv_table)
+execute_query(connection,create_coupe_table)
 
 #call work horse function to create database
 #call read query function to fetch information from MySQL
-results=read_query(connection,display_suv_models_table)
+results=read_query(connection,display_coupe_models_table)
 #iterate through the table to display all information
 for result in results:
     print(result)
